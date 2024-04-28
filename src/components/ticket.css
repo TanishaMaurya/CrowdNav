@@ -1,0 +1,111 @@
+.wrapper{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  background-color: rgb(8, 97, 100);
+  width:100vw;
+  height: 100vh;
+  margin-top:-30px;
+}
+
+.head{
+    background: rgb(153, 177, 177);
+    justify-items: center;
+    align-items: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 600px;
+    height: 600px;
+    border-radius: 40px;
+    
+    
+   }
+   
+   .header{
+    font-weight: bold;
+    color: rgb(116, 61, 108);
+    font-size: 50px;
+    margin-bottom: 15%;
+    margin-top: 30px;
+    padding-top: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 120px;
+   }
+   
+   .depart{
+   color: rgb(190, 43, 227);
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:  20px;
+    margin-left: 57px;
+    
+   }
+   .start{
+     margin-bottom: 30px;
+   }
+   
+   .city{
+    width: 300px;
+   }
+   
+   .destination{
+   color: rgb(190, 43, 227);
+     font-weight: bold;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 20px;
+      
+      margin-left: 60px;
+   }
+   
+   .datee{
+     margin-top: 30px;
+     
+   }
+   .indate{
+   color: rgb(190, 43, 227);
+     font-weight: bold;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 20px;
+       margin-bottom: 30px;
+       margin-left: 120px;
+      
+   }
+   
+   .outdate{
+     color: rgb(190, 43, 227);
+       font-weight: bold;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       font-size: 20px;
+       font-size: 20px;
+       margin-left: 120px;
+       margin-bottom: 50px;
+   
+   }
+   
+   /* .amount{
+     color: rgb(94, 9, 93);
+       font-weight: bold;
+       font-size: 20px;
+       margin-top: 20px;
+       margin-left: 5px; */
+   
+   
+   
+   .book{
+     color: rgb(219, 193, 212);
+       font-weight: bold;
+       font-size: 20px;
+       background-color: rgb(118, 39, 106);
+       /* margin-top: 600px; */
+       margin-left: 110px;
+       width: 400px;
+       border-radius: 20px;
+       height: 50px;
+       
+   }
+   
+   
+   /* .rs{
+     color: rgb(148, 42, 116);
+   
+   } */

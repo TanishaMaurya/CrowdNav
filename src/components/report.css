@@ -1,0 +1,134 @@
+.wrapper{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background-color: rgb(8, 97, 100);
+    width:100vw;
+    height: 100vh;
+    margin-top:-30px;
+  }
+.head {
+    background: rgb(1, 54, 54);
+    justify-items: center;
+    align-items: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 500px;
+    height: 550px;
+    border-radius: 40px;
+    margin-bottom:50px;
+   
+   
+   }
+   
+   .header {
+    font-weight: bold;
+    color: rgb(232, 223, 230);
+    font-size: 50px;
+    margin-bottom: 15%;
+    margin-left:75px;
+    margin-top: 30px;
+    padding-top: 30px;
+    font-weight:400;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   
+   .depart {
+    color: rgb(240, 236, 241);
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+   
+   }
+   
+   .start {
+    margin-bottom: 30px;
+   }
+   
+   .city {
+    width: 300px;
+   }
+   
+   .destination {
+    color: rgb(231, 229, 232);
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+   
+    margin-left: 60px;
+   }
+   
+   .datee {
+    margin-top: 30px;
+   
+   }
+   
+   .indate {
+    color: rgb(231, 225, 233);
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    
+    margin-bottom: 30px;
+   
+   }
+
+   .dateey{
+    margin-left: -78px;
+   }
+   
+   .outdate {
+    color: rgb(230, 226, 231);
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-size: 20px;
+   
+   }
+   
+   .problem{
+    width: 300px;
+    height: 100px;
+    border: none;
+    color:rgb(17, 14, 16);
+    font-size: 20px;
+    font-weight:300;
+   }
+   
+   /* .time{
+    margin-top: -40px;
+   } */
+   
+   .timein{
+    margin-top: 30px;
+    margin-left: -80px;
+   }
+   
+   .amount {
+    color: rgb(94, 9, 93);
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 5px;
+   
+   }
+   
+   .book {
+    color: rgb(219, 193, 212);
+    font-weight: bold;
+    font-size: 20px;
+    background-color: rgb(118, 39, 106);
+    margin-top: 0px;
+    margin-left:50px;
+    margin-right:50px;
+    width: 400px;
+    border-radius: 20px;
+    height: 50px;
+   
+   }
+   
+   
+   .rs {
+    color: rgb(148, 42, 116);
+   
+   }
